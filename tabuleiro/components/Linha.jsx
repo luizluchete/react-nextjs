@@ -10,7 +10,7 @@ export default function Linha(props){
       <Subdivisao preta={props.preta}></Subdivisao>
       <Subdivisao preta={!props.preta}></Subdivisao>
       <Subdivisao preta={props.preta}></Subdivisao>
-      <Subdivisao preta={!props.preta}></Subdivisao>
+      <Subdivisao preta={!props.preta}> </Subdivisao>
     </div>
   )
 }
