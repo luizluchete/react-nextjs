@@ -7,7 +7,7 @@ export default function Home() {
       flex justify-center items-center h-screen
     `}
     >
-      <Layout title="OAB na Medida" subtitle="Em construção">
+      <Layout title="Painel administrativo" subtitle="Em construção">
         Conteudo
       </Layout>
     </div>
